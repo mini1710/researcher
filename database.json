@@ -1,0 +1,120 @@
+{
+    "news_dict": {
+        "news_results": [
+            {
+                "url": "https://www.insurancejournal.com/magazines/mag-declarations/2025/03/10/814551.htm",
+                "title": "Declarations - Insurance Journal",
+                "source": "insurancejournal.com",
+                "content": "Academy of Insurance warns that the United States is moving towards an uninsurable future due to insufficient action on climate change. In 2023, seven of the top 12 insurance companies paused or restricted new business in California, citing rising fire risks and other climate-related issues. State regulations now allow insurers to raise premiums in high-risk areas, factoring in climate change and passing reinsurance costs to consumers.",
+                "published_date": "Mon, 10 Mar 2025 10:42:57 GMT",
+                "tags": [
+                    "climate change risk",
+                    "insurance related legal/policy changes"
+                ]
+            },
+            {
+                "url": "https://insurancenewsnet.com/innarticle/5-key-drivers-shaping-brokers-strategies-in-2025",
+                "title": "5 key drivers shaping brokers’ strategies in 2025 - Insurance News Net",
+                "source": "insurancenewsnet.com",
+                "content": "Brokers can consider encouraging clients to explore options such as climate-resilient materials for properties in at-risk regions and coverage for risks clients might not have previously considered, such as flooding in non-designated zones. For brokers, the challenge lies in helping clients navigate the nuances of cyber insurance policies. Brokers must navigate the challenging market to secure the best possible policies for their clients and ensure they are adequately protected against growing risks.",
+                "published_date": "Wed, 26 Feb 2025 13:54:38 GMT",
+                "tags": [
+                    "climate change risk",
+                    "insurtech",
+                    "cyber insurance",
+                    "brokers' strategies"
+                ]
+            },
+            {
+                "url": "https://insurance-edge.net/2025/03/17/compliance-celnor-buys-john-tuner-consulting/",
+                "title": "Compliance: Celnor Buys John Turner Consulting - - Insurance Edge",
+                "source": "insurance-edge.net",
+                "content": "Celnor Group, a UK-based provider of testing, inspection, certification, and compliance, has announced the acquisition of New-England based John Turner Consulting, marking a significant development in its growth journey.",
+                "published_date": "Mon, 17 Mar 2025 15:29:08 GMT",
+                "tags": [
+                    "insurtech",
+                    "compliance",
+                    "consulting"
+                ]
+            },
+            {
+                "url": "https://insurancenewsnet.com/innarticle/regulators-reinsurance-asset-testing-guideline-may-face-legal-issues",
+                "title": "Regulators: Reinsurance asset testing guideline may face legal issues - Insurance News Net",
+                "source": "insurancenewsnet.com",
+                "content": "Regulators are concerned about the strength of assets backing billion-dollar blocks of life insurance and annuities in offshore reinsurance transactions. Nearly all major life insurers are looking to make offshore reinsurance deals.",
+                "published_date": "Wed, 05 Mar 2025 11:05:13 GMT",
+                "tags": [
+                    "insurance related legal/policy changes",
+                    "reinsurance",
+                    "life insurance"
+                ]
+            }
+        ]
+    },
+    "research_dict": {
+        "research_results": [
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S2949720524000286",
+                "title": "Exploring the Relationship between Climate Change, Air Pollutants and Human Health: Impacts, Adaptation, and Mitigation Strategies",
+                "abstract": "The innumerable impact of climate change is a global menace to human health. This paper conveys a comprehensive review of scientific literature to explore the relationship between climate change, air pollutants, and human health. The integral relationship between climate change and health is complex and has a significant impact on every facet of human life. The impact can either be direct (e.g., exposures due to extreme heat, storms, flooding, and air pollution) or indirect (e.g., displacement, food security, and variation in water). The rising temperature of the planet could lead to increasingly severe health impacts from climate change in the future. It is important to take stringent climate actions to mitigate the climate change risk and adapt to the impacts that are already happening. To lessen the speed and severity of climate change, mitigation focuses on cutting greenhouse gas emissions. Options for adaptation include things like advancing to higher ground to stop sea levels from increasing, growing new crops that can grow in a new environment, or using novel construction methods. Investing in novel or enhanced technology, infrastructure, and research is frequently required for adaptation. The review emphasized the importance of considering both short-term and long-term adaptation strategies as well as mitigation efforts, which call for steps to address the root cause by halting or reducing the growth in fossil fuel emissions that might severely and completely increase the earth's scorching temperatures. The results of this study provide insightful viewpoints on adaptation measures, and mitigation strategies for decision-makers, experts in public health, and researchers working in the field of climate change and its effects on human health.",
+                "authors": "Gibson Owhoro Ofremu, Babatunde Yusuf Raimi, Samuel Omokhafe Yusuf, Beatrice Akorfa Dziwornu, Somtochukwu Godfrey Nnabuife, Adaeze Mary Eze, Chisom Assumpta Nnajiofor",
+                "date": "2024-05-10",
+                "tags": [
+                    "climate change risk",
+                    "human health",
+                    "adaptation strategies",
+                    "mitigation strategies"
+                ]
+            },
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S004896972403506X",
+                "title": "Greenhouse gases emissions and global climate change: Examining the influence of CO2, CH4, and N2O",
+                "abstract": "An in-depth analysis of the role of greenhouse gases (GHGs) in climate change is examined here along with their diverse sources, including the combustion of fossil fuels, agriculture, and industrial processes. Key GHG components such as carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O) are considered, along with data on emissions across various economic sectors. The consequences of climate change are also highlighted, ranging from more frequent and intense extreme weather events to rising sea levels and impacts on ecosystems and human health. The industrial revolution and unrestricted use of fossil fuels are key factors leading to an increase in GHG concentrations in the atmosphere. Global efforts to reduce emissions are considered, starting with the 1997 Kyoto Protocol and culminating in the 2015 Paris Agreement. The limited effectiveness of early initiatives is underscored, emphasizing the significant importance of the Paris Agreement that provides a global framework for establishing goals to reduce GHG emissions by country. The Green Climate Fund and other international financial mechanisms are also considered as essential tools for financing sustainable projects in developing countries. The global community faces the challenge and necessity for more ambitious efforts to achieve the set goals for reducing GHG emissions. Successful strategies are examined by Sweden, Costa Rica, and Denmark to achieve zero GHG emissions that integrate renewable energy sources and technologies. The importance of global cooperation for creating a sustainable future is also emphasized.",
+                "authors": "Mikalai Filonchyk, Michael P. Peterson, Lifeng Zhang, Volha Hurynovich, Yi He",
+                "date": "2024-07-20",
+                "tags": [
+                    "climate change risk",
+                    "greenhouse gas emissions",
+                    "insurtech"
+                ]
+            },
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S2212420924008720",
+                "title": "Artificial intelligence for flood risk management: A comprehensive state-of-the-art review and future directions",
+                "abstract": "Climate hazards are escalating in frequency and severity, with flooding escalating as a major threat. The limitations of the existing analytical necessitate and computational tools for flood risk management necessitates a shift towards more data-driven flood risk management strategies informed by AI-driven tools and methods. This paper explores the forefront of flood risk management focusing on integrating artificial intelligence (AI), specifically machine learning (ML) and deep learning (DL) technologies. By reviewing hundreds of relevant studies, we present a comprehensive analysis of AI applications in flood risk management by examining flood types, AI models, spatial scales, input data, and practical applications, to provide a holistic view of the current landscape and future potential of AI-enhanced flood risk management. We highlight the extent to which AI-driven solutions can complement the existing tools to enhance the reliability of flood predictions and inform mitigation and response strategies. The paper also address prevailing challenges, including data bias and the need for explainable AI models, and proposes pathways for future research to fully harness AI's potential in mitigating flood risks.",
+                "authors": "Zhewei Liu, Natalie Coleman, Flavia Ioana Patrascu, Kai Yin, Xiangpeng Li, Ali Mostafavi",
+                "date": "2025-02-01",
+                "tags": [
+                    "insurtech",
+                    "flood risk management",
+                    "artificial intelligence"
+                ]
+            },
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S2666683925000173",
+                "title": "Identifying key drivers of urban flood resilience for effective management: Insights and implications",
+                "abstract": "Enhancing urban resilience is a powerful strategy for mitigating floods caused by both intensive human activities and climate change. However, existing studies have limitations, highlighting the need for a more comprehensive framework for assessing flood resilience, one that is based on the resilience evolution process. Therefore, the objective of this study was to develop an integrated framework for evaluating urban flood resilience, incorporating Bayesian networks and Geographic Information Systems (GIS) to explore the driving mechanisms behind flood resilience. The results indicated that: (1) inundation risk, population risk, and flooding mitigation were the most critical indicators influencing urban flood resilience; (2) Chengde and Tangshan emerged as key areas with high resistance capabilities, while Zhangjiakou and Baoding showed notable strengths in functional recovery; (3) the average value of urban flood resilience decreased from 0.58 under a 5-year rainfall return period to 0.54 under a 100-year rainfall return period, representing a 5.6% decrease, with Zhangjiakou exhibiting the highest flood resilience. These findings are of significant importance for policymakers involved in flood risk management.",
+                "authors": "Yongyang Wang, Yulei Xie, Lei Chen, Pan Zhang",
+                "date": "2025-02-05",
+                "tags": [
+                    "climate change risk",
+                    "urban flood resilience",
+                    "flood risk management"
+                ]
+            },
+            {
+                "url": "https://www.sciencedirect.com/science/article/pii/S2666592125000071",
+                "title": "Early Warning Systems in Climate Risk Management: Roles and Implementations in Eradicating Barriers and Overcoming Challenges",
+                "abstract": "Early Warning Systems (EWS) are essential tools for alleviating the effects of natural hazards, particularly floods, cyclones, and droughts, by giving early warnings and actionable information. Currently, there is a lack of common standards, detailed guidelines, and a clear understanding of how EWS operates in challenging environments, making it difficult to evaluate their efficacy. However, various human and social factors often compromise their efficacy. Barriers resulting from human behavior, social systems, and cultural settings could hinder the dissemination, comprehension, and response to early warnings. To assist decision-makers in identifying optimal risk mitigation measures and EWS mechanisms, the current study intends to determine their roles and overcome implementation barriers and challenges associated with EWS. The current study primarily considered 669 articles, selecting 37 relevant ones through 4 steps: identification, screening, eligibility, and inclusion, based on the PRISMA framework for data extraction and review. The study findings include several human and social factors as barriers to EWS such as socio-cultural constraints, political instabilities, communication challenges, insufficient technology, inadequate finance, lack of community involvement, and so on. The review shows how community-based EWSs provide power-driven warnings to societies in disaster-prone vulnerable regions, primarily floods, droughts, and tropical cyclones. This paper discusses Bangladesh’s EWS success story, elucidating climate risk management techniques and their roles in floods, cyclones, and droughts. The most significant gap is the lack of suitable equipment for monitoring hazards, making predictions, and spreading EWS. Overall, the outcomes of this study have profound implications across social, environmental, and financial sectors, which strengthen disaster risk reduction initiatives, influence policy and technical advancements, and support local, national, and global resilience. These insights derived from this research will eventually enhance community safety, preparedness, and sustainability.",
+                "authors": "Md. Mujahidul Islam, Mehedi Hasan, Md. Saju Mia, Abdullah Al Masud, Abu Reza Md Towfiqul Islam",
+                "date": "2025-01-14",
+                "tags": [
+                    "climate change risk",
+                    "early warning systems",
+                    "disaster risk reduction"
+                ]
+            }
+        ]
+    },
+    "last_refreshed_date": "27 Mar 25 , Thu  21:21"
+}

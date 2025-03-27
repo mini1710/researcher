@@ -1,0 +1,9 @@
+# Requires Python 3.11.11
+langgraph==0.2.74
+langchain==0.3.19
+langchain-community==0.3.18
+langchain-openai==0.3.7
+tavily-python==0.5.1
+python-dotenv==1.0.1
+rapidfuzz==3.12.2
+streamlit==1.43.2
